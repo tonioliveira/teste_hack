@@ -1,2 +1,2 @@
-1 mousepad
+0 mousepad
 0 gimp
